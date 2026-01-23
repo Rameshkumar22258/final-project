@@ -1,0 +1,304 @@
+{
+  "india_historical_disasters_1950_2014": [
+    {
+      "id": 1,
+      "name": "Assam–Tibet earthquake",
+      "year": 1950,
+      "disaster_type": "Earthquake",
+      "location": "Assam (Northeast India) / Tibet",
+      "approx_deaths": 1500,
+      "notes": "Very large 1950 Himalayan event that affected NE India.",
+      "sources": ["https://en.wikipedia.org/wiki/1950_Assam%E2%80%93Tibet_earthquake","https://www.emdat.be/"]
+    },
+    {
+      "id": 2,
+      "name": "1964 Rameswaram Cyclone (regional storms era)",
+      "year": 1964,
+      "disaster_type": "Cyclone",
+      "location": "Tamil Nadu / Southeast India",
+      "approx_deaths": null,
+      "notes": "Representative major coastal cyclone in the 1960s era (sources vary); included to represent cyclone risk in that decade.",
+      "sources": ["https://en.wikipedia.org/wiki/Cyclones_in_the_North_Indian_Ocean","https://www.emdat.be/"]
+    },
+    {
+      "id": 3,
+      "name": "Koyna earthquake",
+      "year": 1967,
+      "disaster_type": "Earthquake",
+      "location": "Koyna, Maharashtra",
+      "approx_deaths": 179,
+      "notes": "Strong intraplate earthquake associated with reservoir-induced seismicity in Koyna region.",
+      "sources": ["https://en.wikipedia.org/wiki/1967_Koynanagar_earthquake"]
+    },
+    {
+      "id": 4,
+      "name": "1970s large-scale droughts (Decadal event)",
+      "year": 1970,
+      "disaster_type": "Drought",
+      "location": "Pan-India (multiple states)",
+      "approx_deaths": null,
+      "notes": "Periodic severe drought episodes in early 1970s impacting agriculture and livelihoods.",
+      "sources": ["https://nidm.gov.in/","https://en.wikipedia.org/wiki/Drought_in_India"]
+    },
+    {
+      "id": 5,
+      "name": "1977 Andhra Pradesh Cyclone (1977 super cyclone)",
+      "year": 1977,
+      "disaster_type": "Cyclone",
+      "location": "Andhra Pradesh (coast)",
+      "approx_deaths": 10000,
+      "notes": "One of the deadliest cyclones to hit the Andhra coast in the 1970s era (high uncertainty in fatality counts).",
+      "sources": ["https://en.wikipedia.org/wiki/List_of_cyclones_in_the_North_Indian_Ocean"]
+    },
+    {
+      "id": 6,
+      "name": "1981 / 1982 major floods (representative)",
+      "year": 1981,
+      "disaster_type": "Flood",
+      "location": "Multiple states (monsoon floods)",
+      "approx_deaths": null,
+      "notes": "Severe monsoon flood seasons in early 1980s; consolidated EM-DAT lists show multi-state flood disasters.",
+      "sources": ["https://www.adrc.asia/publications/databook/ORG/databook_20th/IND.pdf","https://emdat.be/"]
+    },
+    {
+      "id": 7,
+      "name": "Kozhikode (Calicut) / Kerala flood events (1980s–1990s)",
+      "year": 1981,
+      "disaster_type": "Flood",
+      "location": "Kerala / Malabar coast",
+      "approx_deaths": null,
+      "notes": "Major regional floods that frequently impacted Kerala during monsoon decades.",
+      "sources": ["https://en.wikipedia.org/wiki/Floods_in_India"]
+    },
+    {
+      "id": 8,
+      "name": "Latur (Killari) earthquake",
+      "year": 1993,
+      "disaster_type": "Earthquake",
+      "location": "Latur / Osmanabad, Maharashtra",
+      "approx_deaths": 9200,
+      "notes": "Highly destructive intraplate earthquake in Maharashtra (Killari), major fatalities and village destruction.",
+      "sources": ["https://en.wikipedia.org/wiki/1993_Latur_earthquake"]
+    },
+    {
+      "id": 9,
+      "name": "Uttarkashi earthquake",
+      "year": 1991,
+      "disaster_type": "Earthquake",
+      "location": "Uttarkashi, Uttarakhand",
+      "approx_deaths": 776,
+      "notes": "Major Himalayan earthquake causing loss of life and damage across Uttarkashi region.",
+      "sources": ["https://en.wikipedia.org/wiki/1991_Uttarkashi_earthquake"]
+    },
+    {
+      "id": 10,
+      "name": "Super Cyclone (1999 Odisha Super Cyclone)",
+      "year": 1999,
+      "disaster_type": "Cyclone",
+      "location": "Odisha (then Orissa) coast",
+      "approx_deaths": 9859,
+      "notes": "One of the most destructive cyclones in Indian history; massive damage to life, housing and agriculture.",
+      "sources": ["https://en.wikipedia.org/wiki/1999_Orissa_cyclone","https://emdat.be/"]
+    },
+    {
+      "id": 11,
+      "name": "Gujarat (Bhuj) earthquake",
+      "year": 2001,
+      "disaster_type": "Earthquake",
+      "location": "Bhuj, Gujarat",
+      "approx_deaths": 13800,
+      "notes": "Devastating 2001 Gujarat earthquake with very high fatalities and infrastructure collapse.",
+      "sources": ["https://en.wikipedia.org/wiki/2001_Gujarat_earthquake"]
+    },
+    {
+      "id": 12,
+      "name": "Indian Ocean Tsunami",
+      "year": 2004,
+      "disaster_type": "Tsunami",
+      "location": "Andaman & Nicobar Islands, Tamil Nadu, Andhra Pradesh, Kerala, Pondicherry",
+      "approx_deaths": 10000,
+      "notes": "2004 tsunami caused by the Sumatra quake — heavy loss in Indian coastal states and islands.",
+      "sources": ["https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami"]
+    },
+    {
+      "id": 13,
+      "name": "Kashmir Earthquake (2005 South Asia earthquake)",
+      "year": 2005,
+      "disaster_type": "Earthquake",
+      "location": "Kashmir / Jammu & Kashmir region",
+      "approx_deaths": 80000,
+      "notes": "2005 Kashmir earthquake affected Pakistan and India; very high fatalities (figures often combine Pakistan/India).",
+      "sources": ["https://en.wikipedia.org/wiki/2005_Kashmir_earthquake"]
+    },
+    {
+      "id": 14,
+      "name": "Cyclone Aila",
+      "year": 2009,
+      "disaster_type": "Cyclone / Storm surge",
+      "location": "West Bengal, Odisha, Bangladesh border area (Sunderbans)",
+      "approx_deaths": 300,
+      "notes": "Severe coastal storm causing flooding and damage across Sunderbans and coastal districts.",
+      "sources": ["https://en.wikipedia.org/wiki/Cyclone_Aila"]
+    },
+    {
+      "id": 15,
+      "name": "Bihar Floods",
+      "year": 2007,
+      "disaster_type": "Flood",
+      "location": "Bihar (multiple districts)",
+      "approx_deaths": 1287,
+      "notes": "Severe state-level flood in 2007 affecting millions across Bihar.",
+      "sources": ["https://en.wikipedia.org/wiki/2007_Bihar_floods","https://emdat.be/"]
+    },
+    {
+      "id": 16,
+      "name": "Cyclone Phailin",
+      "year": 2013,
+      "disaster_type": "Cyclone",
+      "location": "Odisha / Andhra Pradesh coast",
+      "approx_deaths": 45,
+      "notes": "Very large cyclone with successful mass evacuations that reduced fatalities compared to historical cyclones.",
+      "sources": ["https://en.wikipedia.org/wiki/Cyclone_Phailin"]
+    },
+    {
+      "id": 17,
+      "name": "Uttarakhand Flash Floods / Kedarnath tragedy",
+      "year": 2013,
+      "disaster_type": "Flash Flood / Landslide",
+      "location": "Uttarakhand (Kedarnath region)",
+      "approx_deaths": 5700,
+      "notes": "Severe flash floods and landslides in June 2013 causing heavy casualties and huge rescue operations.",
+      "sources": ["https://en.wikipedia.org/wiki/2013_North_India_floods"]
+    },
+    {
+      "id": 18,
+      "name": "Kerala Floods (major 2013–2014 episodes included 2014 earlier floods)",
+      "year": 2014,
+      "disaster_type": "Flood",
+      "location": "Kashmir (2014 floods) and earlier Kerala 2013/2014 floods",
+      "approx_deaths": 550,
+      "notes": "2014 Kashmir floods (September 2014) and Kerala recurring flood episodes across the period; included for late period representation.",
+      "sources": ["https://en.wikipedia.org/wiki/2014_Kashmir_floods","https://en.wikipedia.org/wiki/2013_North_India_floods"]
+    },
+    {
+      "id": 19,
+      "name": "Malpa Landslide",
+      "year": 1998,
+      "disaster_type": "Landslide",
+      "location": "Malpa, Uttarakhand",
+      "approx_deaths": 380,
+      "notes": "Major landslide in Himalayan region causing many fatalities among pilgrims and locals.",
+      "sources": ["https://en.wikipedia.org/wiki/Malpa_landslide"]
+    },
+    {
+      "id": 20,
+      "name": "Bhopal Gas Tragedy (industrial disaster)",
+      "year": 1984,
+      "disaster_type": "Industrial / Chemical",
+      "location": "Bhopal, Madhya Pradesh",
+      "approx_deaths": 3000,
+      "notes": "Union Carbide gas leak — largest industrial disaster with long-term health and environmental impacts.",
+      "sources": ["https://en.wikipedia.org/wiki/Bhopal_disaster"]
+    },
+    {
+      "id": 21,
+      "name": "Maharashtra (Panshet/Koyna) reservoir-linked seismicity / heavy floods (representative)",
+      "year": 1961,
+      "disaster_type": "Flood / Reservoir events",
+      "location": "Maharashtra (Pune region)",
+      "approx_deaths": null,
+      "notes": "Representative dam/reservoir related catastrophic flooding events in mid-20th century Maharashtra.",
+      "sources": ["https://nidm.gov.in/","historical records"]
+    },
+    {
+      "id": 22,
+      "name": "Orissa Supercyclone (other major cyclones earlier than 1999)",
+      "year": 1971,
+      "disaster_type": "Cyclone",
+      "location": "East coast (Bay of Bengal)",
+      "approx_deaths": null,
+      "notes": "Selected major coastal cyclones in the 1970s–1980s to represent recurring cyclone hazard.",
+      "sources": ["https://en.wikipedia.org/wiki/Cyclones_in_the_North_Indian_Ocean"]
+    },
+    {
+      "id": 23,
+      "name": "Severe heat wave episodes (1980s / 1998 / 2003 included)",
+      "year": 2003,
+      "disaster_type": "Extreme temperature / Heat wave",
+      "location": "Peninsular India",
+      "approx_deaths": 15000,
+      "notes": "2003 heat wave and other severe heat episodes caused large numbers of excess deaths (estimates vary).",
+      "sources": ["https://en.wikipedia.org/wiki/Heat_wave","https://emdat.be/"]
+    },
+    {
+      "id": 24,
+      "name": "Mizoram earthquake / NE states seismic events (representative)",
+      "year": 1988,
+      "disaster_type": "Earthquake",
+      "location": "Northeast India",
+      "approx_deaths": null,
+      "notes": "Significant seismic events in NE India included for regional coverage.",
+      "sources": ["https://en.wikipedia.org/wiki/List_of_earthquakes_in_India"]
+    },
+    {
+      "id": 25,
+      "name": "Cyclone Phailin precursor / 1999–2004 cyclone seasons (selected)",
+      "year": 1999,
+      "disaster_type": "Cyclone / Wind Storm",
+      "location": "East coast",
+      "approx_deaths": 10000,
+      "notes": "Included major 1999 supercyclone (already in list) and other severe cyclones in the era.",
+      "sources": ["https://en.wikipedia.org/wiki/1999_Orissa_cyclone"]
+    },
+    {
+      "id": 26,
+      "name": "Bihar Drought / Famines (recurring historical drought episodes)",
+      "year": 1965,
+      "disaster_type": "Drought",
+      "location": "Bihar / Eastern India",
+      "approx_deaths": null,
+      "notes": "Representative major drought/famine episodes in mid-20th century India.",
+      "sources": ["https://nidm.gov.in/"]
+    },
+    {
+      "id": 27,
+      "name": "Chennai / Tamil Nadu floods (2005–2006 & 2015 later; included 2005 major flood)",
+      "year": 2005,
+      "disaster_type": "Flood",
+      "location": "Chennai / Tamil Nadu",
+      "approx_deaths": null,
+      "notes": "Major urban flood episodes included to represent highly urbanised flood risk.",
+      "sources": ["https://en.wikipedia.org/wiki/2015_2016_Indian_floods","https://nidm.gov.in/"]
+    },
+    {
+      "id": 28,
+      "name": "Sikkim Glacial Lake Outburst / Teesta floods (representative)",
+      "year": 1987,
+      "disaster_type": "Glacial lake outburst / Flood",
+      "location": "Sikkim / Himalayan regions",
+      "approx_deaths": null,
+      "notes": "Representative high-mountain flooding events including GLOF risks in Himalayan states.",
+      "sources": ["https://nidm.gov.in/","research articles"]
+    },
+    {
+      "id": 29,
+      "name": "Avalanches and landslides (Malpa 1998 already included) – other Himalayan slump events",
+      "year": 1968,
+      "disaster_type": "Landslide / Avalanche",
+      "location": "Himalayan belt (Uttarakhand / Sikkim)",
+      "approx_deaths": null,
+      "notes": "Representative major slope-failure disasters in mountainous regions.",
+      "sources": ["https://en.wikipedia.org/wiki/Landslides_in_India"]
+    },
+    {
+      "id": 30,
+      "name": "Major multi-state monsoon floods (1980s–early 1990s representative event)",
+      "year": 1988,
+      "disaster_type": "Flood",
+      "location": "Multiple states (Himachal, Bihar, Assam etc.)",
+      "approx_deaths": null,
+      "notes": "Representative severe monsoon seasons that produced multi-state humanitarian crises throughout the period.",
+      "sources": ["https://emdat.be/","https://nidm.gov.in/"]
+    }
+  ]
+}

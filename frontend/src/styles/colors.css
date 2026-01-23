@@ -1,0 +1,269 @@
+/* 
+ * SwasthyaSetu - FEMA-Inspired Government Design System
+ * Professional Disaster Management Platform (USWDS Standards)
+ */
+
+:root {
+  /* ========== PRIMARY COLORS ========== */
+  /* Government Blue - Professional, Authoritative, Trustworthy */
+  --primary-50: #e6f2ff;
+  --primary-100: #b3d9ff;
+  --primary-200: #80bfff;
+  --primary-300: #4da6ff;
+  --primary-400: #1a8cff;
+  --primary-500: #0073e6;   /* Main primary - Government Blue */
+  --primary-600: #005bb3;
+  --primary-700: #004280;
+  --primary-800: #002a4d;
+  --primary-900: #00111a;
+
+  /* ========== ACCENT COLORS ========== */
+  /* Alert Red - Urgency, Action Required */
+  --accent-50: #fff5f5;
+  --accent-100: #ffe0e0;
+  --accent-200: #ffb3b3;
+  --accent-300: #ff8080;
+  --accent-400: #ff4d4d;
+  --accent-500: #e63946;  /* Main accent - Alert Red */
+  --accent-600: #cc2936;
+  --accent-700: #991f26;
+  --accent-800: #661416;
+  --accent-900: #330a0b;
+
+  /* ========== SEVERITY LEVELS ========== */
+  /* Critical - Immediate action required */
+  --severity-critical: #c81e1e;
+  --severity-critical-bg: #fee2e2;
+  --severity-critical-light: #fef2f2;
+  --severity-critical-border: #fca5a5;
+
+  /* High - Urgent attention needed */
+  --severity-high: #ea580c;
+  --severity-high-bg: #fff4e6;
+  --severity-high-light: #fffbf0;
+  --severity-high-border: #fdba74;
+
+  /* Medium - Monitor closely */
+  --severity-medium: #d97706;
+  --severity-medium-bg: #fef3c7;
+  --severity-medium-light: #fffbeb;
+  --severity-medium-border: #fde68a;
+
+  /* Low - Routine monitoring */
+  --severity-low: #059669;
+  --severity-low-bg: #d1fae5;
+  --severity-low-light: #ecfdf5;
+  --severity-low-border: #6ee7b7;
+
+  /* Safe - No immediate concern */
+  --severity-safe: #047857;
+  --severity-safe-bg: #d1fae5;
+  --severity-safe-light: #ecfdf5;
+
+  /* ========== DISASTER TYPE COLORS ========== */
+  --disaster-flood: #3b82f6;         /* Blue */
+  --disaster-flood-bg: #dbeafe;
+  
+  --disaster-earthquake: #8b5cf6;    /* Purple */
+  --disaster-earthquake-bg: #ede9fe;
+  
+  --disaster-cyclone: #06b6d4;       /* Cyan */
+  --disaster-cyclone-bg: #cffafe;
+  
+  --disaster-landslide: #84cc16;     /* Lime */
+  --disaster-landslide-bg: #ecfccb;
+  
+  --disaster-wildfire: #ef4444;      /* Red */
+  --disaster-wildfire-bg: #fee2e2;
+  
+  --disaster-drought: #d97706;       /* Amber */
+  --disaster-drought-bg: #fef3c7;
+  
+  --disaster-tsunami: #0891b2;       /* Dark Cyan */
+  --disaster-tsunami-bg: #cffafe;
+
+  /* ========== NEUTRAL COLORS ========== */
+  /* Backgrounds - Clean, Professional (USWDS) */
+  --background-primary: #ffffff;
+  --background-secondary: #f8f9fa;
+  --background-tertiary: #e9ecef;
+  --surface: #ffffff;
+  --surface-hover: #f8f9fa;
+  --surface-elevated: #ffffff;
+  --surface-subtle: #f8f9fa;
+  --surface-glass: rgba(255, 255, 255, 0.95);
+
+  /* Text - High Contrast, Accessible (Section 508) */
+  --text-primary: #212529;
+  --text-secondary: #495057;
+  --text-tertiary: #6c757d;
+  --text-quaternary: #adb5bd;
+  --text-disabled: #ced4da;
+  --text-inverse: #ffffff;
+  --text-muted: #6c757d;
+
+  /* Borders - Clean, Professional */
+  --border-light: #dee2e6;
+  --border-normal: #ced4da;
+  --border-medium: #adb5bd;
+  --border-dark: #6c757d;
+  --border-focus: var(--primary-500);
+
+  /* ========== STATUS COLORS ========== */
+  --status-success: #059669;
+  --status-success-bg: #d1fae5;
+  --status-success-border: #6ee7b7;
+  
+  --status-warning: #d97706;
+  --status-warning-bg: #fef3c7;
+  --status-warning-border: #fde68a;
+  
+  --status-error: #c81e1e;
+  --status-error-bg: #fee2e2;
+  --status-error-border: #fca5a5;
+  
+  --status-info: #486581;
+  --status-info-bg: #e0e7ff;
+  --status-info-border: #c7d2fe;
+
+  /* ========== COMPONENT COLORS ========== */
+  /* Buttons - Government Standard */
+  --button-primary: var(--primary-500);
+  --button-primary-hover: var(--primary-600);
+  --button-primary-active: var(--primary-700);
+  --button-accent: var(--accent-500);
+  --button-accent-hover: var(--accent-600);
+  --button-secondary: #6c757d;
+  --button-secondary-hover: #495057;
+
+  /* Cards - Clean, Professional */
+  --card-bg: var(--surface);
+  --card-border: var(--border-light);
+  --card-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.08);
+  --card-shadow-hover: 0 4px 8px 0 rgba(0, 0, 0, 0.12);
+  --card-shadow-elevated: 0 8px 16px 0 rgba(0, 0, 0, 0.15);
+
+  /* Navbar - Government Header Style */
+  --navbar-bg: #ffffff;
+  --navbar-border: var(--border-light);
+  --navbar-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.08);
+  --navbar-primary-bg: var(--primary-500);
+
+  /* Sidebar */
+  --sidebar-bg: var(--surface);
+  --sidebar-border: var(--border-normal);
+
+  /* ========== SHADOWS ========== */
+  --shadow-xs: 0 1px 2px 0 rgba(0, 0, 0, 0.04);
+  --shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.06), 0 1px 2px 0 rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.08);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.12), 0 10px 10px -5px rgba(0, 0, 0, 0.06);
+  --shadow-2xl: 0 25px 50px -12px rgba(0, 0, 0, 0.15);
+
+  /* ========== OVERLAYS ========== */
+  --overlay-light: rgba(0, 0, 0, 0.04);
+  --overlay-medium: rgba(0, 0, 0, 0.08);
+  --overlay-dark: rgba(0, 0, 0, 0.5);
+
+  /* ========== GRADIENTS ========== */
+  --gradient-primary: linear-gradient(135deg, var(--primary-700) 0%, var(--primary-900) 100%);
+  --gradient-accent: linear-gradient(135deg, var(--accent-600) 0%, var(--accent-800) 100%);
+  --gradient-danger: linear-gradient(135deg, #c81e1e 0%, #991b1b 100%);
+  --gradient-success: linear-gradient(135deg, #059669 0%, #047857 100%);
+  --gradient-subtle: linear-gradient(135deg, #fafbfc 0%, #f4f6f8 100%);
+}
+
+/* ========== DARK MODE (Optional) ========== */
+[data-theme="dark"] {
+  --background-primary: #0f172a;
+  --background-secondary: #1e293b;
+  --surface: #1e293b;
+  --surface-hover: #334155;
+  --surface-elevated: #334155;
+
+  --text-primary: #f1f5f9;
+  --text-secondary: #cbd5e1;
+  --text-tertiary: #94a3b8;
+  --text-disabled: #64748b;
+
+  --border-light: #334155;
+  --border-normal: #475569;
+  --border-medium: #64748b;
+
+  --card-bg: #1e293b;
+  --card-border: #334155;
+  --card-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.3);
+
+  --navbar-bg: rgba(30, 41, 59, 0.95);
+}
+
+/* ========== UTILITY CLASSES ========== */
+.bg-primary { background-color: var(--primary-600); }
+.bg-secondary { background-color: var(--secondary-600); }
+.bg-surface { background-color: var(--surface); }
+
+.text-primary { color: var(--text-primary); }
+.text-secondary { color: var(--text-secondary); }
+.text-tertiary { color: var(--text-tertiary); }
+
+.border { border-color: var(--border-normal); }
+.border-light { border-color: var(--border-light); }
+
+/* Severity utility classes */
+.severity-critical {
+  color: var(--severity-critical);
+  background-color: var(--severity-critical-bg);
+}
+
+.severity-high {
+  color: var(--severity-high);
+  background-color: var(--severity-high-bg);
+}
+
+.severity-medium {
+  color: var(--severity-medium);
+  background-color: var(--severity-medium-bg);
+}
+
+.severity-low {
+  color: var(--severity-low);
+  background-color: var(--severity-low-bg);
+}
+
+/* Disaster type utility classes */
+.disaster-flood { 
+  color: var(--disaster-flood);
+  background-color: var(--disaster-flood-bg);
+}
+
+.disaster-earthquake { 
+  color: var(--disaster-earthquake);
+  background-color: var(--disaster-earthquake-bg);
+}
+
+.disaster-cyclone { 
+  color: var(--disaster-cyclone);
+  background-color: var(--disaster-cyclone-bg);
+}
+
+.disaster-landslide { 
+  color: var(--disaster-landslide);
+  background-color: var(--disaster-landslide-bg);
+}
+
+.disaster-wildfire { 
+  color: var(--disaster-wildfire);
+  background-color: var(--disaster-wildfire-bg);
+}
+
+
+
+
+
+
+
+
+
+
+

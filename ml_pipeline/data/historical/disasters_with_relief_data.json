@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "source": "Indian Disasters with Actual Relief Data",
+    "last_updated": "2025-01-15",
+    "description": "Real disaster data with actual relief requirements and distributions from official sources",
+    "total_disasters": 8,
+    "data_quality": "Official government and NIDM reports"
+  },
+  "india_disasters_with_relief_data": [
+    {
+      "disaster_name": "2015 South India floods (Chennai & Tamil Nadu)",
+      "year": 2015,
+      "disaster_type": "flood",
+      "location": {
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+      },
+      "food_packets_distributed": 12800000,
+      "water_liters": 702000,
+      "rescue_teams_deployed": 80620,
+      "medical_teams_deployed": 10833,
+      "government_financial_aid": null,
+      "people_affected": 1716000,
+      "notes": "Source reports: 12.8 million food packets distributed across Chennai region; 702,000 water packets recorded (source reports list water 'packets' — treated as 1-litre units per reporting conventions but original source does not explicitly say bottle size); ~80,120 rescue personnel from army/navy/airforce/NDRF/etc; 10,833 medical camps and ~1.679 million screened. Figures are from state/national situation reports and NIDM/Wikipedia summary.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2015_South_India_floods",
+        "https://nidm.gov.in/PDF/pubs/ChennailFlood_NIDM2021.pdf"
+      ]
+    },
+    {
+      "disaster_name": "2018 Kerala floods (Kerala Floods PDNA)",
+      "year": 2018,
+      "disaster_type": "flood",
+      "location": {
+        "city": "Kerala",
+        "state": "Kerala"
+      },
+      "food_packets_distributed": null,
+      "water_liters": null,
+      "rescue_teams_deployed": null,
+      "medical_teams_deployed": 164,
+      "government_financial_aid": 18000000000,
+      "people_affected": 5000000,
+      "notes": "People affected ~5 million (PDNA). Medical camps / teams reported (e.g., 164 medical camps cited in PDNA). Central/state relief / MGNREGS rehabilitation package ~INR 1,800 crore (sanctioned under MGNREGS & other central assistance mentioned in PDNA). Food/water packet totals exist in district bulletins (e.g., Pathanamthitta district reported ~16,000 food packets in first 3 days) but consolidated national food-packet/water-litre totals not in single source.",
+      "sources": [
+        "https://sdma.kerala.gov.in/wp-content/uploads/2019/03/PDNA-report-FINAL-FEB-2019_compressed.pdf",
+        "https://nidm.gov.in/PDF/pubs/KeralaFlood_18.pdf"
+      ]
+    },
+    {
+      "disaster_name": "Cyclone Fani (Odisha / East India)",
+      "year": 2019,
+      "disaster_type": "cyclone",
+      "location": {
+        "city": "Bhubaneswar",
+        "state": "Odisha"
+      },
+      "food_packets_distributed": null,
+      "water_liters": null,
+      "rescue_teams_deployed": 80,
+      "medical_teams_deployed": null,
+      "government_financial_aid": null,
+      "people_affected": 1470000,
+      "notes": "NDRF reported ~80 teams pre-positioned/deployed; ~1.47 million people were evacuated / affected (national sitrep). Detailed itemised food-packet and water-litre totals not published in a single national release — NGOs & UN sitreps discuss challenges delivering food/medicine/water.",
+      "sources": [
+        "https://ndrf.gov.in/en/operations/cyclone-fani-2019",
+        "https://www.unicef.org/media/82111/file/India-Cyclone-Fani-SitRep-12-May-2019.pdf"
+      ]
+    },
+    {
+      "disaster_name": "Cyclone Amphan (West Bengal / Odisha)",
+      "year": 2020,
+      "disaster_type": "cyclone",
+      "location": {
+        "city": "Kolkata",
+        "state": "West Bengal"
+      },
+      "food_packets_distributed": null,
+      "water_liters": null,
+      "rescue_teams_deployed": 39,
+      "medical_teams_deployed": 210,
+      "government_financial_aid": 27077700000,
+      "people_affected": 813000,
+      "notes": "Multiple official reports: NDRF & state reports show ~20 teams in Odisha + 19 in West Bengal (approx. 39 NDRF teams active); SRC Odisha restoration report lists ~210 mobile medical teams deployed and ~2.00 lakh people evacuated to shelters; PIB/HLC approved central assistance ~Rs 2,707.77 crore for West Bengal (plus amounts for Odisha) — included as INR in 'government_financial_aid'. Food/water packet totals not consolidated in a single source.",
+      "sources": [
+        "https://ndrf.gov.in/en/operations/super-cyclone-amphan-2020",
+        "https://pib.gov.in/PressReleasePage.aspx?PRID=1672518",
+        "https://srcodisha.nic.in/amphan/Restoration%20and%20Damage%20Assesment-%20Cyclone%20AMPHAN-%2023.05.2020.pdf"
+      ]
+    },
+    {
+      "disaster_name": "2004 Indian Ocean tsunami (India relief response)",
+      "year": 2004,
+      "disaster_type": "tsunami",
+      "location": {
+        "city": "Coastal India",
+        "state": "Multiple States"
+      },
+      "food_packets_distributed": null,
+      "water_liters": null,
+      "rescue_teams_deployed": null,
+      "medical_teams_deployed": null,
+      "government_financial_aid": null,
+      "people_affected": 1700000,
+      "notes": "Humanitarian response summaries list ~1.7 million people made homeless/displaced in India; extensive multi-national relief operations with food/water/shelter distributions documented in PDNA and other reports. Consolidated itemised counts (total food packets / litres / medical teams across all responding agencies) are available in segmented donor/agency reports rather than a single national table.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Humanitarian_response_to_the_2004_Indian_Ocean_earthquake",
+        "https://www.gfdrr.org/sites/default/files/publication/pda-2005-india.pdf"
+      ]
+    },
+    {
+      "disaster_name": "Uttarakhand floods / flash floods (2013 & 2025 localized events)",
+      "year": 2013,
+      "disaster_type": "flood",
+      "location": {
+        "city": "Uttarkashi",
+        "state": "Uttarakhand"
+      },
+      "food_packets_distributed": 300000,
+      "water_liters": null,
+      "rescue_teams_deployed": null,
+      "medical_teams_deployed": 71,
+      "government_financial_aid": null,
+      "people_affected": null,
+      "notes": "Relief reports for Uttarakhand (2013) cite ~300,000 food and water packets distributed outside relief camps in early response; Indian Red Cross and other agencies reported relief items worth INR 2.2 crore sent. Medical teams counts reported in district bulletins. (For 2025 Uttarkashi, district reports exist but not fully consolidated.)",
+      "sources": [
+        "https://nidm.gov.in/pdf/pubs/india%20disaster%20report%202013.pdf",
+        "https://reliefweb.int/report/india/uttarakhand-flash-floods-%E2%80%93-report"
+      ]
+    },
+    {
+      "disaster_name": "2001 Gujarat earthquake (state relief & financial packages)",
+      "year": 2001,
+      "disaster_type": "earthquake",
+      "location": {
+        "city": "Bhuj",
+        "state": "Gujarat"
+      },
+      "food_packets_distributed": null,
+      "water_liters": null,
+      "rescue_teams_deployed": null,
+      "medical_teams_deployed": null,
+      "government_financial_aid": 50000000000,
+      "people_affected": 3000000,
+      "notes": "Government of Gujarat and Centre announced large multi-package financial relief & rehabilitation packages (announced CRF / PMNRF allocations and state packages). Some donor & agency records list in-kind food/water relief, but consolidated packet/litre totals are dispersed across many reports.",
+      "sources": [
+        "https://archive.pib.gov.in/archive/releases98/lyr2001/rjan2001/r30012001.html",
+        "https://en.wikipedia.org/wiki/2001_Gujarat_earthquake"
+      ]
+    },
+    {
+      "disaster_name": "Cyclone Hudhud (Visakhapatnam, Andhra Pradesh)",
+      "year": 2014,
+      "disaster_type": "cyclone",
+      "location": {
+        "city": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+      },
+      "food_packets_distributed": null,
+      "water_liters": null,
+      "rescue_teams_deployed": null,
+      "medical_teams_deployed": null,
+      "government_financial_aid": null,
+      "people_affected": 222000,
+      "notes": "~222,000 people evacuated to ~310 relief camps before landfall (district/state reports). Itemised supply totals (packets/litres/teams) are available in various state bulletins but not in a single national spreadsheet.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cyclone_Hudhud"
+      ]
+    }
+  ]
+}
+

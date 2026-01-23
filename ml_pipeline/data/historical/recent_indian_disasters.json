@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "source": "Recent Indian Natural Disasters",
+    "last_updated": "2025-01-15",
+    "description": "Comprehensive list of major natural disasters in India from 2014-2025",
+    "total_disasters": 15
+  },
+  "natural_disasters_india_last_10_years": [
+    {
+      "disaster_name": "Uttarakhand Flash Floods",
+      "disaster_type": "Flash Flood / Cloudburst",
+      "date": "05-08-2025",
+      "affected_places": ["Uttarkashi, Uttarakhand"],
+      "deaths": 5,
+      "injured": "Unknown",
+      "missing": 50,
+      "severity": "High",
+      "major_impacts": [
+        "Houses and hotels washed away",
+        "Sudden river swelling",
+        "Tourist casualties"
+      ]
+    },
+    {
+      "disaster_name": "Kolkata Cloudburst and Urban Flooding",
+      "disaster_type": "Cloudburst / Flood",
+      "date": "23-09-2025",
+      "affected_places": ["Kolkata, West Bengal"],
+      "deaths": 12,
+      "injured": 30,
+      "missing": 2,
+      "severity": "Moderate to High",
+      "major_impacts": [
+        "Severe waterlogging",
+        "Transport and flight disruptions",
+        "Urban infrastructure damage"
+      ]
+    },
+    {
+      "disaster_name": "Cyclone Montha",
+      "disaster_type": "Cyclone",
+      "date": "29-10-2025",
+      "affected_places": [
+        "Andhra Pradesh",
+        "Telangana",
+        "Odisha",
+        "Tamil Nadu",
+        "Puducherry"
+      ],
+      "deaths": 8,
+      "injured": 8,
+      "missing": 0,
+      "severity": "High",
+      "major_impacts": [
+        "Coastal flooding",
+        "Crop losses",
+        "Infrastructure damage"
+      ]
+    },
+    {
+      "disaster_name": "India Monsoon Floods",
+      "disaster_type": "Floods / Landslides",
+      "date": "Jun–Sep 2024",
+      "affected_places": [
+        "Himachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Uttar Pradesh",
+        "Maharashtra"
+      ],
+      "deaths": 300,
+      "injured": "Thousands",
+      "missing": "Hundreds",
+      "severity": "High",
+      "major_impacts": [
+        "Widespread flooding",
+        "Landslides in hill regions",
+        "Mass displacement"
+      ]
+    },
+    {
+      "disaster_name": "Joshimath Land Subsidence",
+      "disaster_type": "Land Subsidence",
+      "date": "Jan 2023",
+      "affected_places": ["Joshimath, Uttarakhand"],
+      "deaths": 0,
+      "injured": 0,
+      "missing": 0,
+      "severity": "High",
+      "major_impacts": [
+        "Cracks in houses and roads",
+        "Evacuation of residents",
+        "Infrastructure instability"
+      ]
+    },
+    {
+      "disaster_name": "Himachal Pradesh Floods and Landslides",
+      "disaster_type": "Floods / Landslides",
+      "date": "Jul–Aug 2023",
+      "affected_places": ["Himachal Pradesh"],
+      "deaths": 550,
+      "injured": "Hundreds",
+      "missing": "Dozens",
+      "severity": "Extreme",
+      "major_impacts": [
+        "Massive landslides",
+        "Road and bridge collapse",
+        "Large-scale displacement"
+      ]
+    },
+    {
+      "disaster_name": "Cyclone Amphan",
+      "disaster_type": "Cyclone",
+      "date": "20-05-2020",
+      "affected_places": ["West Bengal", "Odisha"],
+      "deaths": 98,
+      "injured": "Hundreds",
+      "missing": "Several",
+      "severity": "Extreme",
+      "major_impacts": [
+        "Severe wind damage",
+        "Coastal flooding",
+        "Large power outages"
+      ]
+    },
+    {
+      "disaster_name": "Cyclone Fani",
+      "disaster_type": "Cyclone",
+      "date": "03-05-2019",
+      "affected_places": ["Odisha", "West Bengal"],
+      "deaths": 64,
+      "injured": "Hundreds",
+      "missing": "Several",
+      "severity": "Extreme",
+      "major_impacts": [
+        "Mass evacuations",
+        "Infrastructure destruction",
+        "Crop damage"
+      ]
+    },
+    {
+      "disaster_name": "Kerala Floods",
+      "disaster_type": "Floods",
+      "date": "Aug 2018",
+      "affected_places": ["Kerala"],
+      "deaths": 483,
+      "injured": "Thousands",
+      "missing": "Hundreds",
+      "severity": "Extreme",
+      "major_impacts": [
+        "Worst floods in a century",
+        "Large-scale displacement",
+        "Severe damage to homes and roads"
+      ]
+    },
+    {
+      "disaster_name": "Cyclone Hudhud",
+      "disaster_type": "Cyclone",
+      "date": "12-10-2014",
+      "affected_places": [
+        "Visakhapatnam, Andhra Pradesh",
+        "Odisha",
+        "Chhattisgarh"
+      ],
+      "deaths": 124,
+      "injured": "Hundreds",
+      "missing": "Several",
+      "severity": "Extreme",
+      "major_impacts": [
+        "Severe damage to Visakhapatnam city",
+        "Power and communication collapse",
+        "Massive infrastructure and crop losses"
+      ]
+    }
+  ],
+  "natural_disasters_2025_india": [
+    {
+      "disaster_name": "Cyclone Ditwah",
+      "disaster_type": "Cyclone",
+      "date": "Nov–Dec 2025",
+      "magnitude_or_intensity": "Severe Cyclonic Storm",
+      "affected_places": [
+        "Tamil Nadu",
+        "Southern Coastal India"
+      ],
+      "deaths": 180,
+      "injured": 21,
+      "missing": "Several",
+      "severity": "Very High",
+      "major_impacts": [
+        "Severe flooding",
+        "Coastal damage",
+        "Power and communication outages",
+        "Large-scale evacuations"
+      ]
+    },
+    {
+      "disaster_name": "Cyclone Montha",
+      "disaster_type": "Cyclone",
+      "date": "29-10-2025",
+      "magnitude_or_intensity": "Severe Cyclonic Storm",
+      "affected_places": [
+        "Andhra Pradesh",
+        "Telangana",
+        "Odisha",
+        "Tamil Nadu",
+        "Puducherry"
+      ],
+      "deaths": 8,
+      "injured": 8,
+      "missing": 0,
+      "severity": "High",
+      "major_impacts": [
+        "Coastal flooding",
+        "Crop losses",
+        "Infrastructure damage",
+        "Heavy rainfall inland"
+      ]
+    },
+    {
+      "disaster_name": "Uttarakhand Flash Floods",
+      "disaster_type": "Flash Flood / Cloudburst",
+      "date": "05-08-2025",
+      "magnitude_or_intensity": "Extreme rainfall event",
+      "affected_places": [
+        "Uttarkashi District, Uttarakhand"
+      ],
+      "deaths": 5,
+      "injured": "Unknown",
+      "missing": 50,
+      "severity": "High",
+      "major_impacts": [
+        "Houses and hotels destroyed",
+        "Sudden river surges",
+        "Tourist casualties"
+      ]
+    },
+    {
+      "disaster_name": "Kolkata Cloudburst and Flooding",
+      "disaster_type": "Cloudburst / Urban Flooding",
+      "date": "23-09-2025",
+      "magnitude_or_intensity": "Extreme rainfall",
+      "affected_places": [
+        "Kolkata, West Bengal"
+      ],
+      "deaths": 12,
+      "injured": 30,
+      "missing": 2,
+      "severity": "Moderate to High",
+      "major_impacts": [
+        "Severe waterlogging",
+        "Traffic and flight disruptions",
+        "Urban infrastructure damage"
+      ]
+    },
+    {
+      "disaster_name": "2025 India Monsoon Floods",
+      "disaster_type": "Riverine Floods / Landslides",
+      "date": "Jun–Sep 2025",
+      "magnitude_or_intensity": "Widespread extreme monsoon",
+      "affected_places": [
+        "Himachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Maharashtra",
+        "Central and Northern India"
+      ],
+      "deaths": 2400,
+      "injured": "Thousands",
+      "missing": "Hundreds",
+      "severity": "Extreme",
+      "major_impacts": [
+        "Large-scale flooding",
+        "Landslides in hill regions",
+        "Crop and livestock losses",
+        "Mass displacement"
+      ]
+    }
+  ]
+}
+
