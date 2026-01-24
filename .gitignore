@@ -1,0 +1,35 @@
+# Node
+node_modules/
+build/
+dist/
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+venv/
+*.pyc
+
+# ML artifacts (trained models - can be regenerated)
+ml_pipeline/models/trained/*.pkl
+ml_pipeline/models/trained/*.joblib
+
+# Data (large files - keep essential JSON, exclude large CSVs)
+*.csv
+*.zip
+
+# Environment
+.env
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

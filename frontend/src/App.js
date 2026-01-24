@@ -6,12 +6,11 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Dashboard from './pages/Dashboard';
 import PredictionPage from './pages/PredictionPage';
-import ReliefPredictionPage from './pages/ReliefPredictionPage'; // New relief prediction
+import ReliefPredictionPage from './pages/ReliefPredictionPage';
 import MonitoringPage from './pages/MonitoringPage';
 import AnalyticsPageWithTrends from './pages/AnalyticsPageWithTrends';
-import DynamicMapView from './pages/DynamicMapView'; // New dynamic map
+import DynamicMapView from './pages/DynamicMapView';
 import DisasterDetail from './pages/DisasterDetail';
-import HistoricalTrendsPage from './pages/HistoricalTrendsPage';
 
 // API Service
 import api from './services/api';
